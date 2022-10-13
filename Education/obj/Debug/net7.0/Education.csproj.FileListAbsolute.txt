@@ -1,0 +1,15 @@
+/Users/admin/RiderProjects/Education/Education/bin/Debug/net7.0/Education
+/Users/admin/RiderProjects/Education/Education/bin/Debug/net7.0/Education.deps.json
+/Users/admin/RiderProjects/Education/Education/bin/Debug/net7.0/Education.runtimeconfig.json
+/Users/admin/RiderProjects/Education/Education/bin/Debug/net7.0/Education.dll
+/Users/admin/RiderProjects/Education/Education/bin/Debug/net7.0/Education.pdb
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.AssemblyInfo.cs
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.dll
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/refint/Education.dll
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.pdb
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/Education.genruntimeconfig.cache
+/Users/admin/RiderProjects/Education/Education/obj/Debug/net7.0/ref/Education.dll

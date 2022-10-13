@@ -1,0 +1,15 @@
+/Users/admin/RiderProjects/Education/CalculationLib/bin/Debug/net7.0/CalculationLib
+/Users/admin/RiderProjects/Education/CalculationLib/bin/Debug/net7.0/CalculationLib.deps.json
+/Users/admin/RiderProjects/Education/CalculationLib/bin/Debug/net7.0/CalculationLib.runtimeconfig.json
+/Users/admin/RiderProjects/Education/CalculationLib/bin/Debug/net7.0/CalculationLib.dll
+/Users/admin/RiderProjects/Education/CalculationLib/bin/Debug/net7.0/CalculationLib.pdb
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.AssemblyInfo.cs
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.dll
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/refint/CalculationLib.dll
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.pdb
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/CalculationLib.genruntimeconfig.cache
+/Users/admin/RiderProjects/Education/CalculationLib/obj/Debug/net7.0/ref/CalculationLib.dll
